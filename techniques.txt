@@ -1,0 +1,19 @@
+DONE:
+1. smaller version of image by evenly spread cubes on original image
+1.1. only the cutout of the original image from 1.
+
+IN PROGRESS:
+2. cut even vertical stripes (as many as desired) and be able to move them up and down with button
+
+IDEAS: 
+- interactive: being able to cut out any rectangle from an image and move it around
+- interactive: being able to cut out any self-made form from an image and move it around
+- cut even 7s and make them as a triangle on top right corner of the image
+- cut even 0s and make them as a chain on the side on the image
+- cut even vertical stripes and remove half of them to make a new image
+- duplicate and image, make it low opacity and superpose it on the original image, but slightly shifted
+- duplicate and image, make it low opacity and superpose it on the original image, but slightly tilted
+- ai: switch people's eyes in a 2 people picture
+- interactive: choose a kid block toy and print the original picture on its dimensions
+
+everything is about perception, not about reality but about how each of us chooses to look at things
