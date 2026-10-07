@@ -1,4 +1,4 @@
-#Kensuke Koike Labo
+**Kensuke Koike Labo
 
 This project is inspired by an artist I like. Not affiliated at all.
 
